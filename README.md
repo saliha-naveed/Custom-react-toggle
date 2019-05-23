@@ -1,5 +1,5 @@
-# Custom-react-toggle
-Accessible Toggle Component for React. 
+# React Toggle Switch
+Accessible Custom Toggle Switch Component for React. 
 
 # Examples
 Here is a simple example of react toggle-switch being used in an app with some custom styles.
